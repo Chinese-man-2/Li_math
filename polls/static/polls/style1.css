@@ -1,0 +1,19 @@
+li a {
+    color: rgb(12, 244, 12);
+    font-size: 30;
+}
+header {
+    color: red;
+    font-size: 100;
+}
+h1 {
+    color: rgb(5, 4, 4);
+    font-size: 70;
+}
+h2 {
+    color: red;
+    font-size: 40;
+}
+body {
+    background: white url("images/T.png") no-repeat;
+}

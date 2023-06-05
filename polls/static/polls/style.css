@@ -1,0 +1,24 @@
+li a {
+    padding-top: 50%;
+    color: rgb(15, 15, 16);
+    font-size: 30;
+}
+body {
+    background: white url("images/KhanKids_VirtualBackground_Activity5.png") no-repeat;
+}
+header {
+    color: red;
+    font-size: 100;
+    padding-left: 10%;
+}
+h2 {
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    padding-inline-start: 20px;
+}
+
+ul {
+    padding-top: 30%;
+}
