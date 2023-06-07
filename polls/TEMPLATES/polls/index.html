@@ -3,15 +3,7 @@
 {% load pwa %}
 <link rel="stylesheet" href="{% static 'polls/style.css' %}">
 <head>
-    <br><br><header>Welcome to Li Math!</header><br><br><br><br><br><br><br><br>
-
-    {% if latest_score_list %}
-        {% for score in latest_score_list %}
-            <li><a>score: {{ score.score_value_text }}</a></li>
-        {% endfor %}
-    {% else %}
-        <p>No scores are available.</p>
-    {% endif %}
+    <br><br><header>Welcome to Li Math!</header>
     
     {% if latest_question_list %}
         <ul>
